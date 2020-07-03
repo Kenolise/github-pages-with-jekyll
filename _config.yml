@@ -12,5 +12,5 @@ twitter_username: https://twitter.com/thekenose # DO NOT include the @ character
 github_username:  Kenolise # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
-theme: minima
+theme: jekyll-theme-hacker
 ---
